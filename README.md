@@ -38,10 +38,9 @@ Once plugin receives this token, it will unencrypt using the secret key generate
 
 https://youtu.be/tP2gn8aHZ2s?si=C7ad4c9OyHGjXLuD <br/>
 	
-https://www.youtube.com/watch?v=02oymYLt3qo <br />
-![Screenshot 2023-11-11 at 10 47 20 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/c37dee9f-3a95-46f0-9123-33927dd741a6)
-![Screenshot 2023-11-11 at 10 47 26 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/24b7e5e1-5dd4-4e5d-a2c9-383b904fb405)
-![Screenshot 2023-11-11 at 10 47 40 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/1bd4a154-3bec-4c04-bc66-f2f995e40665)
-![Screenshot 2023-11-11 at 10 49 39 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/74824cb9-a995-4834-8b0e-4b297d2d3739)
+https://www.youtube.com/watch?v=02oymYLt3qo <br />![Screenshot 2023-11-11 at 10 47 40 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/1823fbc0-26f3-4986-96b9-fc0c7696efc5)
+![Screenshot 2023-11-11 at 10 47 26 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/ee60e2d8-2238-4009-9bf0-81e66e39593b)
+![Screenshot 2023-11-11 at 10 47 20 AM](https://github.com/muraliwebworld/Integrate_React_Native_app_with_WordPress_PNFPB_Push_notification_plugin/assets/32461311/d27f0a46-aa2a-499e-af84-727c435e8ac2)
+
 
 
